@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **advanced android and cyber security tools**
 
-- 💬 Ask me about **Android, Cyber Security**
-
 - 📫 How to reach me **omersungur615@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
