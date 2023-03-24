@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **android apps I try to make on my own and topics in cyber security**
 
-- 🌱 I’m currently learning **cyber security basics**
+- 🌱 I’m currently learning **advanced android and cyber security tools**
 
 - 💬 Ask me about **Android, Cyber Security**
 
