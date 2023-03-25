@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Sungur</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omersungur&label=Profile%20views&color=0e75b6&style=flat" alt="omersungur" /> </p>
-
 - 🔭 I’m currently working on **android apps I try to make on my own and topics in cyber security**
 
 - 🌱 I’m currently learning **advanced android and cyber security tools**
