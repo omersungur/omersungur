@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **advanced android and cyber security tools**
 
-- 📫 How to reach me **omersungur615@gmail.com**
+- 📫 You can reach me: **omersungur615@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
