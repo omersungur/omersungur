@@ -2,9 +2,9 @@
 
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working on **android apps I try to make on my own and topics in cyber security**
+- 🔭 I’m currently working on **android development**
 
-- 🌱 I’m currently learning **advanced android and cyber security tools**
+- 🌱 I’m currently learning **advanced kotlin and advanced android**
 
 - 📫 You can reach me: **omersungur615@gmail.com**
 
