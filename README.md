@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/omersungur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omersungur/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16780255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16780255" height="30" width="40" /></a>
-<a href="https://instagram.com/omerssungaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerssungaa" height="30" width="40" /></a>
+<a href="https://instagram.com/omersungur10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omersungur10" height="30" width="40" /></a>
 <a href="https://medium.com/@omersungur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omersungur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omersungur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omersungur" height="30" width="40" /></a>
 </p>
